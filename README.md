@@ -12,8 +12,7 @@
                    The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 
-
-            <img width="679" alt="image" src="https://github.com/RCS007/Task-1---Fraud-Detection-Deltaclause-/assets/114015610/4e8da7ae-acef-4c9b-a81f-be55bc93027c">
+ <img width="679" alt="image" src="https://github.com/RCS007/Task-1---Fraud-Detection-Deltaclause-/assets/114015610/4e8da7ae-acef-4c9b-a81f-be55bc93027c">
 
 
 # Dataset link :-
